@@ -2,6 +2,6 @@ Hello USA,
 
 How are you?
 
-This is Vel from India.
+This is John from USA.
 
 Thank you!
